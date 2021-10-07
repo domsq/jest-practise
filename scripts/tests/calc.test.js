@@ -1,7 +1,3 @@
-/**
- * @jest-environment jsdom
- */
-
 const { TestWatcher } = require("@jest/core");
 const addition = require("../calc.js");
 
